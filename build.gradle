@@ -31,7 +31,7 @@ dependencies {
 mainClassName = 'App'
 task display{
 doLast{
-println 'Good morning its a devops class'
+println 'Varshini Smitha 1BI23Cs236'
 }
 }
 
